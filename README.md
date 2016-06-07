@@ -11,31 +11,31 @@ The postcards themselves can be viewed at the [Peel’s Prairie Provinces webpag
 
 ### Contents of this repository
 
-PeelMetadata.ipynb
+**PeelMetadata.ipynb**
 
 - this is the master code file, in the format of an iPython notebook. If you have iPython installed on your machine, you can download this file (as well as the postcards from the above link) and run the code yourself. 
 - Even if you’re a ‘non-coder’ this document describes the code and how it works, and there are embedded links for further information. Look at this file first.
 
-PeelOutput.csv
+**PeelOutput.csv**
 
 - this is the raw output of the code. If you click on the link it will ask you to ‘View Raw’. Doing so will display the raw CSV in your browser. The file needs some minor cleanup, and that’s apparent when you take a look at it. 
 
-PeelPostcardMetadata(ver.1).xlsx
+**PeelPostcardMetadata(ver.1).xlsx**
 
 - This is a cleaned version of the above file. Clicking on the link will prompt you to download the file.
 
-README.md
+**README.md**
 
 - What you are reading right now is the README file.
 
-filecount.png
+**filecount.png**
 
 - this is an image embedded in the PeelMetadata.ipynb file
 
-license
+**license**
 
 - the terms of use for this code.
 
-xmlfile.png
+**xmlfile.png**
 
 - this is an image embedded in the PeelMetadata.ipynb file
