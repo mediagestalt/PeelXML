@@ -18,7 +18,7 @@ PeelMetadata.ipynb
 
 PeelOutput.csv
 
--this is the raw output of the code. If you click on the link it will ask you to ‘View Raw’. Doing so will display the raw CSV in your browser. The file needs some minor cleanup, and that’s apparent when you take a look at it. 
+- this is the raw output of the code. If you click on the link it will ask you to ‘View Raw’. Doing so will display the raw CSV in your browser. The file needs some minor cleanup, and that’s apparent when you take a look at it. 
 
 PeelPostcardMetadata(ver.1).xlsx
 
@@ -38,4 +38,4 @@ license
 
 xmlfile.png
 
-- - this is an image embedded in the PeelMetadata.ipynb file
+- this is an image embedded in the PeelMetadata.ipynb file
